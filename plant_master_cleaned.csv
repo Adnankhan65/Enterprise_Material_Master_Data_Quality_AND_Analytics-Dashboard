@@ -1,0 +1,9 @@
+plant_id,plant_name,city,region
+HYD01,Hyderabad Plant,Hyderabad,South
+BLR01,Bangalore Plant,Bangalore,South
+MUM01,Mumbai Plant,Mumbai,West
+PUN01,Pune Plant,Pune,West
+CHE01,Chennai Plant,Chennai,South
+DEL01,Delhi Plant,Delhi,North
+KOL01,Kolkata Plant,Kolkata,East
+AMD01,Ahmedabad Plant,Ahmedabad,West
